@@ -1,0 +1,141 @@
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 22:48:28 2015
+
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 22:48:41 2015
+
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 22:59:34 2015
+
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:00:40 2015
+
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:00:45 2015
+
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:03:02 2015
+
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:05:07 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:08:42 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:10:06 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:21:15 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:22:28 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:26:49 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.02 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:31:11 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:32:31 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.02 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:33:43 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:40:33 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:44:06 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.02 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:48:30 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:49:51 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.02 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:51:57 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Fri Jun  5 23:56:14 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Sat Jun  6 00:00:43 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Sat Jun  6 00:04:57 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.02 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Sat Jun  6 00:21:24 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Sat Jun  6 00:22:27 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+
+Gurobi 6.0.2 (mac64) logging started Sat Jun  6 00:22:55 2015
+
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.02 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros
+Read MPS format model from file 30_70_45_095_100.mps
+Reading time = 0.03 seconds
+30_70_4.5_0.95_100: 12526 rows, 10976 columns, 46640 nonzeros

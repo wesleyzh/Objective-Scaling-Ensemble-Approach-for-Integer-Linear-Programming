@@ -1,0 +1,20 @@
+#!wing
+#!version=5.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+console.toolbox = [{'autosave': False,
+                    'id': 'cmd-Fz1MoFMAqwe26QFP',
+                    'io_encoding': None,
+                    'key_binding': None,
+                    'line_mode': True,
+                    'loc': u'/Users/naiyuwang/Google Drive/Scientific Projects/Finished/Integer Program Heuristics/related code/OSEA 4.0/OSEA_script.py',
+                    'pseudo_tty': False,
+                    'raise_panel': True,
+                    'title': None}]
+proj.file-list = [loc('DBCSPmodule.py'),
+                  loc('DSINS 2.0.py'),
+                  loc('DSINSmodule.py'),
+                  loc('OSEA 3.0.py')]
+proj.file-type = 'shared'
